@@ -11,3 +11,16 @@ C:\Users\yns3g\Desktop\repo\otomataOdev\otomataOdev\bin\Debug\Nakov.TurtleGraphi
 C:\Users\yns3g\Desktop\repo\otomataOdev\otomataOdev\obj\Debug\otomataOdev.csproj.CopyComplete
 C:\Users\yns3g\Desktop\repo\otomataOdev\otomataOdev\obj\Debug\otomataOdev.exe
 C:\Users\yns3g\Desktop\repo\otomataOdev\otomataOdev\obj\Debug\otomataOdev.pdb
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\otomataOdev.exe.config
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\otomataOdev.exe
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\otomataOdev.pdb
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.AssemblyReference.cache
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.Form1.resources
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.Properties.Resources.resources
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.GenerateResource.cache
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.CopyComplete
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.exe
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.pdb
