@@ -24,3 +24,17 @@ C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.cspr
 C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.csproj.CopyComplete
 C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.exe
 C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\obj\Debug\otomataOdev.pdb
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\sly.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Buffers.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Collections.Immutable.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Memory.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.ValueTuple.dll
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\sly.pdb
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Buffers.xml
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Collections.Immutable.xml
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Memory.xml
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yns3g\Desktop\repo\otomataGrup-9\otomataOdev\bin\Debug\System.ValueTuple.xml
